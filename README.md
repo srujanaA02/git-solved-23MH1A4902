@@ -70,3 +70,4 @@ Please read CONTRIBUTING.md before submitting pull requests.
 ## License
 MIT License
 >>>>>>> 02011a5 (updating dev)
+## FAQ
