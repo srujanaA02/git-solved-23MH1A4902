@@ -1,0 +1,18 @@
+* 8c80281 (HEAD -> main, origin/main) docs: Add changelog
+* 4d74278 docs: completed Git Mastery Challenge journey
+* 05aa00c (tag: v1.1.0, tag: v1.0.0) fix: cleaned README merge conflict
+* e200b50 feat: Add new feature
+* 9f2564e docs: Add FAQ section
+* dc08069 Add files via upload
+| * 437bcba (origin/feature/new-feature, feature/new-feature) fix: correct mistakes in README
+| * 4d052b8 feat: Add new feature
+|/  
+* 38efdf4 updating dev
+* 729cbae Add files via upload
+* 0312c6f (instructor/main, instructor/HEAD) updating main
+* fadfd24 Revise README for DevOps Simulator project
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+| * 02011a5 (instructor/dev, dev) updating dev
+|/  
+* ae630eb Initial commit
