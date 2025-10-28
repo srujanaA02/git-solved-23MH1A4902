@@ -71,3 +71,7 @@ Please read CONTRIBUTING.md before submitting pull requests.
 MIT License
 
 ## FAQ
+What is DevOps Simulator?
+DevOps Simulator is a CI/CD configuration and deployment management tool designed to automate and monitor enterprise-level applications.
+Which environments are supported?
+Currently supports **Production** and **Development** environments. You can configure these in `config/app-config.yaml`.
