@@ -4,14 +4,12 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 ## Project Status
 
-**Version**: 1.0.0  
-**Environment**: Production  
-**Maintainer**: DevOps Team
+**Version**: 1.0.0 (Production), 2.0.0-beta (Development)
+**Environment**: Production & Development
+**Student**: Aketi Lakshmi Srujana
+**Student ID**: 23MH1A4902
 
 
-**Version**: 2.0.0-beta  
-**Environment**: Development  
-**Maintainer**: DevOps Team
 
 ## New Features (In Development)
 - 🚀 Kubernetes orchestration support
