@@ -3,7 +3,7 @@
 ## Overview
 DevOps Simulator follows a microservices architecture designed for high availability and scalability.
 
-<<<<<<< HEAD
+
 ## Components
 
 ### 1. Application Server
@@ -30,7 +30,6 @@ DevOps Simulator follows a microservices architecture designed for high availabi
 - SSL/TLS encryption
 - Database connection encryption
 - Regular security audits
-=======
 **Development Version**: This document describes the development architecture with experimental features.
 
 ## Components
@@ -86,4 +85,4 @@ DevOps Simulator follows a microservices architecture designed for high availabi
 - Multi-cloud deployment
 - AI-powered log analysis
 - Automatic rollback on anomaly detection
->>>>>>> 02011a5 (updating dev)
+
