@@ -1,5 +1,6 @@
   conflict-simulator
   dev
+  feature/another-feature
   feature/new-feature
 * main
   remotes/instructor/HEAD -> instructor/main
@@ -7,4 +8,5 @@
   remotes/instructor/dev
   remotes/instructor/main
   remotes/origin/feature/new-feature
+  remotes/origin/feature/another-feature
   remotes/origin/main
