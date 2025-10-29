@@ -1,6 +1,5 @@
 /**
-<<<<<<< HEAD
-<<<<<<< HEAD
+
  * System Monitoring Script
  * Supports both production and development modes
  */
@@ -27,7 +26,7 @@ console.log('=================================');
 console.log(`DevOps Simulator - Monitor`);
 console.log(`Environment: ${ENV}`);
 console.log(`Debug: ${config.debugMode ? 'ENABLED' : 'DISABLED'}`);
-=======
+
  * System Monitoring Script - Development
  * Enhanced monitoring with debug features
  */
@@ -43,23 +42,23 @@ const monitorConfig = {
 console.log('=================================');
 console.log('DevOps Simulator - Monitor v2.0-beta');
 console.log('Development Mode: ENABLED');
->>>>>>> dev
+
 console.log('=================================');
 
 function checkSystemHealth() {
   const timestamp = new Date().toISOString();
   
-<<<<<<< HEAD
+
   if (config.debugMode) {
-=======
+
   if (monitorConfig.debugMode) {
->>>>>>> dev
+
     console.log(`\n[${timestamp}] === DETAILED HEALTH CHECK ===`);
   } else {
     console.log(`[${timestamp}] Checking system health...`);
   }
   
-<<<<<<< HEAD
+
   console.log('✓ CPU usage: Normal');
   console.log('✓ Memory usage: Normal');
   console.log('✓ Disk space: Adequate');
@@ -75,7 +74,7 @@ function checkSystemHealth() {
 console.log(`Monitoring every ${config.interval}ms`);
 setInterval(checkSystemHealth, config.interval);
 checkSystemHealth();
-=======
+
   // Check CPU usage
   const cpuUsage = Math.random() * 100;
   console.log(`✓ CPU usage: ${cpuUsage.toFixed(2)}%`);
@@ -111,7 +110,7 @@ checkSystemHealth();
 // Start monitoring
 console.log(`Monitoring every ${monitorConfig.interval}ms`);
 console.log('Debug features enabled');
-=======
+
  * AI-Enhanced System Monitoring Script
  * Version: 3.0.0-experimental
  * Uses machine learning for predictive monitoring
@@ -215,13 +214,11 @@ console.log(`\nMonitoring interval: ${monitorConfig.interval}ms`);
 console.log(`Cloud providers: ${monitorConfig.cloudProviders.join(', ')}`);
 console.log(`AI predictions: ${monitorConfig.predictiveWindow}s ahead\n`);
 
->>>>>>> conflict-simulator
 setInterval(checkSystemHealth, monitorConfig.interval);
 
 // Run first check immediately
 checkSystemHealth();
 
-<<<<<<< HEAD
 // Development-specific: Log memory usage
 if (monitorConfig.debugMode) {
   setInterval(() => {
@@ -231,8 +228,7 @@ if (monitorConfig.debugMode) {
     console.log(`Heap Used: ${(memUsage.heapUsed / 1024 / 1024).toFixed(2)} MB`);
   }, 30000);
 }
->>>>>>> dev
-=======
+
 // Background AI training
 if (monitorConfig.aiEnabled) {
   setInterval(() => {
@@ -241,4 +237,4 @@ if (monitorConfig.aiEnabled) {
     console.log('   Model updated successfully');
   }, 120000); // Every 2 minutes
 }
->>>>>>> conflict-simulator
+
