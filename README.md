@@ -1,17 +1,16 @@
 # DevOps Simulator
 
 A comprehensive CI/CD configuration management tool for enterprise deployments.
-
 ## Project Status
 
-**Version**: 1.0.0  
-**Environment**: Production  
-**Maintainer**: DevOps Team
+**Version**: 1.0.0 (Production), 2.0.0-beta (Development)
 
+**Environment**: Production & Development
 
-**Version**: 2.0.0-beta  
-**Environment**: Development  
-**Maintainer**: DevOps Team
+**Student**: Aketi Lakshmi Srujana
+
+**Student ID**: 23MH1A4902
+
 
 ## New Features (In Development)
 - 🚀 Kubernetes orchestration support
@@ -71,3 +70,11 @@ Please read CONTRIBUTING.md before submitting pull requests.
 MIT License
 
 ## FAQ
+
+**What is DevOps Simulator?**  
+DevOps Simulator is a CI/CD configuration and deployment management tool designed to automate and monitor enterprise-level applications.  
+
+**Which environments are supported?**  
+Currently supports **Production** and **Development** environments.  
+You can configure these in `config/app-config.yaml`.
+
