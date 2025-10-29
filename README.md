@@ -15,12 +15,6 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 
 
-## Project Status
-**Version**: 2.0.0-beta  
-**Environment**: Development  
-**Maintainer**: DevOps Team
-
-
 ## New Features (In Development)
 - 🚀 Kubernetes orchestration support
 - 🔄 Advanced blue-green deployment
