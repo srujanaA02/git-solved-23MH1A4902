@@ -1,14 +1,15 @@
 # DevOps Simulator
 
 A comprehensive CI/CD configuration management tool for enterprise deployments.
-
 ## Project Status
 
 **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
-**Environment**: Production & Development
-**Student**: Aketi Lakshmi Srujana
-**Student ID**: 23MH1A4902
 
+**Environment**: Production & Development
+
+**Student**: Aketi Lakshmi Srujana
+
+**Student ID**: 23MH1A4902
 
 
 ## New Features (In Development)
