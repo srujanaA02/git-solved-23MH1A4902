@@ -86,7 +86,7 @@ npm run dev
 
 
 ## Documentation
-<<< HEADSee `/docs` folder for detailed documentation.
+See `/docs` folder for detailed documentation.
 
 
 ## License
