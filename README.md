@@ -1,8 +1,8 @@
 # DevOps Simulator
 
-<<<<<<< HEAD
+
 A comprehensive CI/CD configuration management tool for enterprise deployments.
-<<<<<<< HEAD
+
 ## Project Status
 
 **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
@@ -13,13 +13,13 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 
 **Student ID**: 23MH1A4902
 
-=======
+
 
 ## Project Status
 **Version**: 2.0.0-beta  
 **Environment**: Development  
 **Maintainer**: DevOps Team
->>>>>>> dev
+
 
 ## New Features (In Development)
 - 🚀 Kubernetes orchestration support
@@ -28,12 +28,9 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - 🔐 OAuth2 authentication
 - 🐳 Docker Compose integration
 
-<<<<<<< HEAD
 
-=======
->>>>>>> dev
 ## Features
-=======
+
 **EXPERIMENTAL BUILD** - Advanced CI/CD configuration management with AI integration.
 
 ## Project Status
@@ -50,13 +47,12 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - 🎯 Chaos engineering tools
 
 ## Legacy Features
->>>>>>> conflict-simulator
+
 - Automated deployment scripts
 - Real-time monitoring
 - Configuration management
 - Backup and recovery system
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 
 
 ## Quick Start
@@ -65,8 +61,7 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 3. Run deployment script
 4. Monitor system health
 
-=======
->>>>>>> dev
+
 - **NEW**: Multi-cloud support (AWS, Azure, GCP)
 - **NEW**: Slack/Discord notifications
 
@@ -89,25 +84,24 @@ npm test
 npm run dev
 ```
 
-<<<<<<< HEAD
 
 ## Documentation
-See `/docs` folder for detailed documentation.
+<<< HEADSee `/docs` folder for detailed documentation.
 
 
 ## License
 MIT License
 
-=======
+
 ## Documentation
 See `/docs` folder for detailed documentation.
 
->>>>>>> dev
+
 ## Contributing
 Please read CONTRIBUTING.md before submitting pull requests.
 
 ## License
-<<<<<<< HEAD
+
 MIT License
 
 ## FAQ
@@ -119,10 +113,8 @@ DevOps Simulator is a CI/CD configuration and deployment management tool designe
 Currently supports **Production** and **Development** environments.  
 You can configure these in `config/app-config.yaml`.
 
-=======
 MIT License
->>>>>>> dev
-=======
+
 
 ## Quick Start - Advanced Mode
 ```bash
@@ -157,4 +149,4 @@ See `/docs` folder and `/docs/ai-integration.md`
 
 ## License
 MIT License
->>>>>>> conflict-simulator
+
