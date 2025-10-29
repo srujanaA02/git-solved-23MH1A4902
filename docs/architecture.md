@@ -1,19 +1,19 @@
-<<<<<<< HEAD
+
 # System Architecture
 
 ## Overview
-<<<<<<< HEAD
+
 DevOps Simulator follows a microservices architecture designed for high availability and scalability. This document covers both production and development configurations.
-=======
+
 DevOps Simulator follows a microservices architecture designed for high availability and scalability.
 
 **Development Version**: This document describes the development architecture with experimental features.
->>>>>>> dev
+
 
 ## Components
 
 ### 1. Application Server
-<<<<<<< HEAD
+
 - **Technology**: Node.js + Express
 - **Production Port**: 8080
 - **Development Port**: 3000
@@ -46,7 +46,7 @@ DevOps Simulator follows a microservices architecture designed for high availabi
 ## Security
 - **Production**: SSL/TLS encryption, strict access controls
 - **Development**: Relaxed security for easier debugging
-=======
+
 - **Technology**: Node.js + Express (with hot reload)
 - **Port**: 3000 (development)
 - **Scaling**: Manual (single instance for development)
@@ -97,8 +97,7 @@ DevOps Simulator follows a microservices architecture designed for high availabi
 - Multi-cloud deployment
 - AI-powered log analysis
 - Automatic rollback on anomaly detection
->>>>>>> dev
-=======
+
 # System Architecture - Experimental Build
 
 ## Overview
@@ -140,4 +139,4 @@ DevOps Simulator follows an **event-driven microservices architecture** with AI/
 ### 5. Advanced Monitoring & Observability
 - **Metrics**: Prometheus + Thanos (long-term storage)
 - **Logs**: ELK Stack + AI log analysis
->>>>>>> conflict-simulator
+
