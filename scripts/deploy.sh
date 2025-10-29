@@ -89,7 +89,7 @@ fi
 
 # Pre-deployment checks
 echo "Running advanced pre-deployment checks..."
->>>>>>> conflict-simulator
+
 if [ ! -f "config/app-config.yaml" ]; then
     echo "Error: Configuration file not found!"
     exit 1
