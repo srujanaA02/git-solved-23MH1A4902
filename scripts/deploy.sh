@@ -1,6 +1,5 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 set -e
 
 # Multi-Environment Deploy Script
@@ -36,7 +35,7 @@ else
 fi
 
 echo "Deployment completed successfully!"
-=======
+
 # Development Deployment Script
 # Version: 2.0.0-beta
 
@@ -59,7 +58,7 @@ echo "Debug: $ENABLE_DEBUG"
 
 # Pre-deployment checks
 echo "Running pre-deployment checks..."
-=======
+
 # Experimental Deployment Script with AI
 # Version: 3.0.0-experimental
 
@@ -96,7 +95,7 @@ if [ ! -f "config/app-config.yaml" ]; then
     exit 1
 fi
 
-<<<<<<< HEAD
+
 # Install dependencies
 echo "Installing dependencies..."
 npm install
@@ -121,8 +120,7 @@ curl -f http://localhost:$APP_PORT/health || exit 1
 echo "Deployment completed successfully!"
 echo "Application available at: http://localhost:$APP_PORT"
 echo "Hot reload enabled - code changes will auto-refresh"
->>>>>>> dev
-=======
+
 # Validate multi-cloud configuration
 for cloud in "${DEPLOY_CLOUDS[@]}"; do
     echo "Validating $cloud configuration..."
@@ -165,4 +163,4 @@ echo "Experimental deployment completed!"
 echo "AI Dashboard: https://ai.example.com"
 echo "Multi-Cloud Status: https://clouds.example.com"
 echo "================================================"
->>>>>>> conflict-simulator
+
